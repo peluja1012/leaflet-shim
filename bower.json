@@ -1,0 +1,13 @@
+{
+  "name": "leaflet-shim",
+  "version": "0.6.4",
+  "main":[
+    "./leaflet.js",
+    "./leaflet.css",
+    "./images/layers-2x.png",
+    "./images/layers.png",
+    "./images/marker-icon-2x.png",
+    "./images/marker-icon.png",
+    "./images/marker-shadow.png"
+  ]
+}
